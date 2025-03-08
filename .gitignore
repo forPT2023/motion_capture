@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+temp_input.mp4
+temp_output.mp4
+
